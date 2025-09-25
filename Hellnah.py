@@ -1,1 +1,3 @@
-print("wawawawa what!?s")
+print("wawawawa what!?")
+
+# Just change name
